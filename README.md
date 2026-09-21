@@ -16,7 +16,7 @@
 ## 🎥 Gameplay Showcase
 
 > **Note:** Best experienced with headphones. Here is a glimpse into the darkness.
-<video src="ReadmeImages/credits.mp4" width="100%" autoplay loop muted playsinline></video>
+<video src="https://github.com/AirNicolas54382/FNAFID/raw/5e98ca2090e1115a4d2fbca3e25420796ed3e4eb/ReadmeImages/credits.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 ---
