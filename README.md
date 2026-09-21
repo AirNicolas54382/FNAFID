@@ -10,14 +10,12 @@
 [![Status](https://img.shields.io/badge/Development-Completed-success?style=for-the-badge)](#)
 
 *A fully realized, immersive fan-game developed over an entire year, featuring complex AI, custom animations, narrative progression, and a massive 3-phase boss fight.*
-
-</div>
-
+</diV>
 ## 🎥 Gameplay Showcase
 
 > **Note:** Best experienced with headphones. Here is a glimpse into the darkness.
-<video src="https://github.com/AirNicolas54382/FNAFID/raw/5e98ca2090e1115a4d2fbca3e25420796ed3e4eb/ReadmeImages/credits.mp4" width="100%" autoplay loop muted playsinline></video>
-</div>
+
+<video src="https://github.com/AirNicolas54382/FNAFID/blob/main/ReadmeImages/credits.mp4?raw=true" controls width="100%" autoplay loop muted playsinline></video>
 
 ---
 
